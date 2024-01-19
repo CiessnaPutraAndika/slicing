@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CiessnaPutraAndika/slicing/static/css/main.dbb24bbb.css",
+    "main.js": "/CiessnaPutraAndika/slicing/static/js/main.f8fb8d06.js",
+    "static/media/undraw_page_not_found_re_e9o6 1.png": "/CiessnaPutraAndika/slicing/static/media/undraw_page_not_found_re_e9o6 1.74765a6f19c19935b8dc.png",
+    "static/media/undraw_voting_nvu7 1.png": "/CiessnaPutraAndika/slicing/static/media/undraw_voting_nvu7 1.ff6d3e0b961c6884f978.png",
+    "static/media/Group 1931.png": "/CiessnaPutraAndika/slicing/static/media/Group 1931.9d0a4e3ad8d33741f4b4.png",
+    "index.html": "/CiessnaPutraAndika/slicing/index.html",
+    "main.dbb24bbb.css.map": "/CiessnaPutraAndika/slicing/static/css/main.dbb24bbb.css.map",
+    "main.f8fb8d06.js.map": "/CiessnaPutraAndika/slicing/static/js/main.f8fb8d06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbb24bbb.css",
+    "static/js/main.f8fb8d06.js"
+  ]
+}
